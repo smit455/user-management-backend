@@ -5,7 +5,6 @@ dist/
 build/
 
 # Environment variables
-.env
 .git
 
 # Logs
@@ -25,3 +24,4 @@ Thumbs.db
 # Optional: Ignore package-lock.json or yarn.lock (if you're using a package manager lock file)
 # package-lock.json
 # yarn.lock
+config.bat
