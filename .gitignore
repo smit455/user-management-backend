@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.git
+
+# Logs
+*.log
+
+# TypeScript build
+*.tsbuildinfo
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore package-lock.json or yarn.lock (if you're using a package manager lock file)
+# package-lock.json
+# yarn.lock
